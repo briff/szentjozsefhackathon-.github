@@ -44,10 +44,17 @@ Semmit nem kell telepíteni: otthon, a templomban és a próbán ugyanaz az anya
 - Honlap: [cantores.hu](https://cantores.hu)
 
 ### Fejlesztési irányok, amikbe be lehet kapcsolódni:
-- Kottabeviteli és -megjelenítési formátumok támogatása, konverziók közöttük.
-- Füzetkészítés: tördelés, montírozás, nyomdakész PDF a különböző méretekre.
-- Vetítőnézet: képarányra tördelés, távirányítás, kapcsolódás meglévő vetítőrendszerekhez (pl. Diatár).
-- Énekrend-sablonok és javaslatok a liturgikus naptár alapján.
+- **Kottabevitel és kottakezelés**: könnyebben kezelhető szerkesztők, a szöveg automatikus elválasztása, versszakkezelés, akkordos és akkord nélküli kották/szövegek egyetlen forrásból — vagyis ugyanannak a kottának a különböző reprezentációi.
+- **Kétirányú kapcsolat a [Diatárral](#diatár)**: énekrendek exportja offline és online is.
+- **Munkafolyamatok**: a napló jobban láthatóvá tétele — mit énekeltünk nemrég, mit nagyon régen.
+- **Zenekari közös, egyidejű használat** megtervezése és fejlesztése.
+- **Diameditáció mise előtt**: képek és szövegek időzített megjelenítése, amire ma PPT készül.
+- **A zenekar készülésének segítése**: az elküldött énekrendből a zenészek könnyen elérik a tanulóanyagokat (részben már működik, ezt kellene továbbvinni).
+- **Képek feltöltése** — itt fontos a tárhellyel való gazdálkodás.
+- **Népszerűsítés, terjesztés** lehetőségei.
+- **Licenszkezelési rétegek.**
+- **Tesztelés**: rengeteg kell belőle, különösen a ritkán használt flow-kban (regisztráció, bejelentkezés).
+- **Customer engagement**: a legtöbb regisztrált felhasználó egyszer lépett be, és soha többet.
 
 ## NapiPakk 
 ![](https://img.shields.io/github/last-commit/szentjozsefhackathon/napi-lelki-batyu?style=for-the-badge)
